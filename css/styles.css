@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100;200;300;400;500;600;700&family=Righteous&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif; 
+}
+
+a {
+    text-decoration: none; 
+    /*font-weight: bold; */
+    color: inherit;
+}
+
+.container {
+    margin: 0 auto; 
+    background-color:#E5E5E5;
+    width: 414px; 
+}
+
+/* --Menu-- */
+.menu { 
+    background-color: #CF2B2B;
+    width: 414px; 
+    height: 92px;
+    padding-left: 21px;
+    padding-top: 8px; 
+    padding-bottom: 40px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.menu > h1 {
+    font-family: 'Righteous', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 55px;
+    color: #FFFFFF; 
+}
+
+.menu > p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+/* --Menu-- */
