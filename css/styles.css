@@ -1,0 +1,33 @@
+
+.request-button-select {
+    width: 414px; 
+    height: 92px; 
+    margin-top: 8px; 
+    padding-top: 10px;
+    background-color: #FFFFFF;
+}
+
+.request-button {
+    background-color: #CBCBCB;
+    width: 364px; 
+    height: 61px; 
+    margin-top: 8px; 
+    margin-left: 25px; 
+    margin-bottom: 16px; 
+    border-radius: 50px; 
+}
+
+.request-button > h4 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    text-align: center;
+    letter-spacing: 0.018em;
+    padding-top: 8px;
+    height: 53px;
+
+    color: #FFFFFF;
+}
+
